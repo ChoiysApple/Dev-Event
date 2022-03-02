@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-38-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-42-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -106,188 +106,133 @@
 > 좋은 행사 놓쳐서 후회하면 무엇하리.. 자주 확인하여 참석합시다 :)
 
 - 2020년 행사: [08월](./2020/20_08.md), [09월](./2020/20_09.md), [10월](./2020/20_10.md), [11월](./2020/20_11.md), [12월](./2020/20_12.md)
-- 2021년 행사: [01월](./2021/21_01.md), [02월](./2021/21_02.md), [03월](./2021/21_03.md), [04월](./2021/21_04.md), [05월](./2021/21_05.md), [06월](./2021/21_06.md), [07월](./2021/21_07.md), [08월](./2021/21_08.md), [09월](./2021/21_09.md), [10월](./2021/21_10.md), [11월](./2021/21_11.md)
-- 행사 다시보기: [20년](./vod/2020_vod.md), [21년](./vod/2021_vod.md)
-- 참여 후기: [바로가기](./review/review.md)
+- 2021년 행사: [01월](./2021/21_01.md), [02월](./2021/21_02.md), [03월](./2021/21_03.md), [04월](./2021/21_04.md), [05월](./2021/21_05.md), [06월](./2021/21_06.md), [07월](./2021/21_07.md), [08월](./2021/21_08.md), [09월](./2021/21_09.md), [10월](./2021/21_10.md), [11월](./2021/21_11.md), [12월](./2021/21_12.md)
+- 2022년 행사: [01월](./2022/22_01.md), [02월](./2022/22_02.md)
+- 지난 개발자 행사 다시보기: [20년](./vod/2020_vod.md), [21년](./vod/2021_vod.md)
+- 개발자 행사 참여 후기: [바로가기](./review/review.md)
 
 <br />
 
-## 21년 11월
-- __[라이징 캠프 3기](https://risingcamp.com)__
-  - 분류: `교육`, `iOS`, `Android`, `Server`, `Web`
-  - 주최: 컴공선배
-  - 모집: 09. 03(금) ~ 11. 19(금)
-
-- __[한국 R 컨퍼런스 2021](https://use-r.kr/)__
-  - 분류: `컨퍼런스`, `데이터`, `온라인`
-  - 주최: Seoul R User Group & Tidyverse Korea
-  - 일시: 11. 19(금) 10:00 ~ 17:00
-- __[월간 코드리뷰 ver_0.2 : 개발자의 소통코드 웨비나](https://taling.me/Event/monthly-codereview/ver_02)__
-  - 분류: `웨비나`
-  - 주최: 탈잉
-  - 일시: 11. 19(금) 19:00 ~ 23:00
-- __[WOOWACON(우아콘) 2021](https://woowacon.com/)__
-  - 분류: `컨퍼런스`, `온라인`, `토크콘서트`
-  - 주최: 우아한 형제들
-  - 일시: 11.17(수) ~ 11. 19(금)
-- __[Svelte 기초 및 실습 (3주차)](https://www.codelabs.kr/codelabs/148)__
-  - 분류: `교육`
-  - 주최: 양재동코드랩
-  - 일시: 11. 20(토) 10:00 ~ 17:00
-- __[Devfest 대전 2021](https://gdg.community.dev/events/details/google-gdg-daejeon-presents-devfest-daejeon-2021/)__
-  - 분류: `웨비나`, `모각코`
-  - 주최: GDG 대전
-  - 일시: 11. 20(토) 14:00 ~ 21:00
-- __[2021년 연말 모각코 - 아듀 2021년](https://www.meetup.com/ko-KR/GDG-Incheon/events/282121394/)__
-  - 분류: `웨비나`, `모각코`
-  - 주최: GDG 인천
-  - 일시: 11. 20(토) 14:00 ~ 17:00
-- __[Open UP_AI오픈소스 실전 아카데미 - 4차](https://shocking-carp-8d9.notion.site/Open-UP_AI-aea2e1ca35ac4b48b6ea0ca12247802a)__
-  - 분류: `교육`, `무료`, `오픈소스`
-  - 주최: Open UP
-  - 일시: 11. 20(토) ~ 11. 21(일)
-- __[Kotlin을 이용한 안드로이드 앱의 기초 구조 (3주차)](https://www.codelabs.kr/codelabs/146)__
-  - 분류: `교육`
-  - 주최: 양재동코드랩
-  - 일시: 11. 21(일) 10:00 ~ 17:00
-- __[2021 콜로키움 행사 온라인](https://www.ict-colloquium.kr/)__
-  - 분류: `웨비나`, `ICT`
-  - 주최: 과학기술정보통신부
-  - 일시: 11. 15(월) ~ 11. 16(화)
-- __[LINE 프론트엔드 개발자와 함께하는 온라인 커리어 멘토링](https://feedback.line.me/enquete/public/14159-1HohnOFz)__
-  - 분류: `커리어`, `프론트엔드`
-  - 주최: 라인
-  - 일시: 11. 09(화) ~ 11. 21(일)
-- __[래블업 AI Conference lab | up > /conf](https://www.codelabs.kr/codelabs/146)__
-  - 분류: `컨퍼런스`, `AI`
-  - 주최: 래블업
-  - 일시: 11. 22(월) 14:00 ~ 17:30
-- __[GCP 입문을 위한 실무 중심 hands-on Labs day 웨비나](https://gc.hosting.kr/gcp_labsday_november-2021/)__
-  - 분류: `컨퍼런스`, `클라우드`
-  - 주최: 메가존
-  - 일시: 11. 23(화) 13:00 ~ 17:00
-- __[삼성SDS 컨퍼런스 Techtonic 2021](https://techtonic.samsungsds.com/techtonic)__
-  - 분류: `컨퍼런스`
-  - 주최: 삼성SDS
-  - 일시: 11. 23(화) ~ 11. 24(수)
-- __[대한민국 마이데이터 정책 컨퍼런스](https://docs.google.com/forms/d/e/1FAIpQLSeir5oWx66H6ycWmE5XIjIvNRD5SgzDeKNYda0WyEV8TBsfng/viewform?usp=sf_link)__
-  - 분류: `마이데이터`
-  - 주최: 4차산업혁명위원회
-  - 일시: 11. 25(목) 14:00 ~ 17:00
-- __[2021 차로위반영상데이터 활용 AI 해커톤](https://tvaihackathon.com/)__
-  - 분류: `해커톤`
-  - 주최: 과학기술정보통신부
-  - 모집: 10. 27(수) ~ 11. 25(목)
-- __[Heart Disease AI Datathon 2021](http://hdaidatathon.com/)__
-  - 분류: `해커톤`
-  - 주최: 과학기술정보통신부
-  - 모집: 10. 27(수) ~ 11. 25(목)
-- __[IT-CON with 디프만](https://festa.io/events/1929)__
-  - 분류: `유료`, `웨비나`
-  - 주최: 디프만
-  - 일시: 11. 25(목) 20:00 ~ 22:00
-- __[2021 공유저작물 및 오픈소스 SW컨퍼런스](https://gongucon.cafe24.com/2021/)__
-  - 분류: `유료`, `웨비나`
-  - 주최: 문화체육관광부
-  - 일시: 11. 25(목) 13:00 ~ 18:00
-- __[마이크로소프트와 함께 하는 온라인 잡 페어](https://forms.office.com/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__SNom4ZUMUFER05HUEdNNU1CVVhGWEZYQzgwTUI0Uy4u)__
-  - 분류: `온라인`, `커리어`
-  - 주최: 마이크로소프트
-  - 일시: 11. 26(금) 14:00 ~ 17:20
-- __[2021년(제2회) NH투자증권 빅데이터 경진대회](https://dacon.io/competitions/official/235798/overview/description)__
-  - 분류: `경진대회`, `데이터`
-  - 주최: NH 투자증권
-  - 일시: 08. 30(월) ~ 11. 26(금)
-- __[Naver Deview 2021](https://deview.kr/2021)__
-  - 분류: `컨퍼런스`, `온라인`
-  - 주최: 네이버
-  - 일시: 11. 24(수) ~ 11. 26(금)
-- __[Svelte 기초 및 실습 (4주차)](https://www.codelabs.kr/codelabs/148)__
-  - 분류: `교육`
-  - 주최: 양재동코드랩
-  - 일시: 11. 27(토) 10:00 ~ 17:00
-- __[GDG Busan Devfest 2021 중소IT 기업의 개발/조직문화 Level Up!](https://festa.io/events/75b909e5-801c-49be-a318-833ccef3a907)__
-  - 분류: `모임`
-  - 주최: GDG Busan
-  - 일시: 11. 27(토) 14:00 ~ 16:00
-- __[Kotlin을 이용한 안드로이드 앱의 기초 구조 (4주차)](https://www.codelabs.kr/codelabs/146)__
-  - 분류: `교육`
-  - 주최: 양재동코드랩
-  - 일시: 11. 28(일) 10:00 ~ 17:00
-- __[성공적인 창업 준비를 위해 스타트업이 알아야 할 AWS의 모든 것](https://www.megazone.com/application_form_startup_webinar-apply-211129_30)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 메가존클라우드
-  - 일시: 11. 29(월) 14:00 ~ 11:30(화) 16:00
-- __[마켓컬리 개발자 Meet Up](https://docs.google.com/forms/d/e/1FAIpQLScjdSn26RJ8nQSxPy3rSy6dL_gwz0z4gJK26tUD2Kb0_Set3w/viewform)__
-  - 분류: `웨비나`
+## 22년 02월
+- __[Stop Covid-19 SW Challenge 아이디어 해커톤](https://www.etedu.co.kr/shop/item.php?it_id=1640589459)__
+  - 분류: `아이디어톤`
+  - 주최: 미래와 소프트웨어재단
+  - 모집: 12. 28(화) ~ 02. 20(일)
+  
+- __[뻔하지 않은 컬리의 개발자 성장기!](https://docs.google.com/forms/d/e/1FAIpQLSc7hbuPz90fUBREM2iXZCxZPsSZ3quzSnawiyI_927QHsMLfQ/viewform)__
+  - 분류: `웨비나`, `테크`
   - 주최: 마켓컬리
-  - 일시: 11. 30(화) 19:00 ~ 20:00
-- __[2021년 Softeer 모의 알고리즘 코딩 대회](https://softeer.ai/certification/detail.do?idx=1327)__
-  - 분류: `대회`, `알고리즘`
-  - 주최: 현대지엔비
-  - 접수: 11. 17(수) ~ 11. 30(화)
-- __[2021 공개 SW 페스티벌](https://festival.oss.kr/information.php)__
-  - 분류: `오픈소스`, `온라인`, ``
-  - 주최: 과학기술정보통신부
-  - 일시: 11. 30(화) 14:00 ~ 17:30
-
-<br />
-
-## 21년 12월
-- __[AWS re:Invent 2021 기조연설 온라인 함께 보기](https://www.meetup.com/ko-KR/awskrug/events/282047396/)__
-  - 분류: `웨비나`, `클라우드`
+  - 신청: 02. 09(수) 00:00 ~ 02. 21(월) 24:00
+- __[AWSKRUG DeepRacer 소모임](https://www.meetup.com/awskrug/events/283759906)__
+  - 분류: `모임`, `AI`
+  - 주최: AWSKRUG
+  - 일시: 02. 22(화) 19:00 ~ 20:00
+- __[2월 우아한테크세미나: React Query와 상태관리](https://docs.google.com/forms/d/e/1FAIpQLScmhN-kfaat-u9-CH7vSTpLABff5a1hp0Ktiai5yU5YpIRPgQ/viewform)__
+  - 분류: `웨비나`, `프론트엔드`
+  - 주최: 우아한형제들
+  - 신청: 02. 15(화) ~ 02. 21(월) 23:59
+- __[디프만 11기 모집](https://docs.google.com/forms/d/e/1FAIpQLScwpMqMufjNJYZPGFtaXrYOS7gAOsNPjAkfobbg79-sqapgNw/viewform)__
+  - 분류: `동아리`
+  - 주최: 디프만
+  - 모집: 02. 19(토) 00:00 ~ 02. 23(수) 23:59
+- __[2022 Dreams Come True](https://cometrue.ai/index.php/20220223_webinar)__
+  - 분류: `웨비나`, `보안`
+  - 주최: ComTrue
+  - 일시: 02. 23(수) 14:00 ~ 02. 24(목) 14:00
+- __[AWS Innovate – AI/ML 특집](https://aws.amazon.com/ko/events/aws-innovate/machine-learning)__
+  - 분류: `웨비나`, `AI/ML`
   - 주최: AWS
-  - 일시: 12. 01(수) 13:00 ~ 15:00
-
-- __[2021 미소 인공지능 모델 개발 챌린지](https://misochallenge.com/)__
-  - 분류: `챌린지`, `인공지능`
-  - 주최: 과학기술정보통신부
-  - 일시: 11. 08(월) ~ 12. 03(금)
-- __[2021 드림플러스 블록체인 해커톤](httpshttps://www.dreamplus.asia/programs/hackathon?utm_source=comm)__
-  - 분류: `해커톤`, `블록체인`
-  - 주최: 드림플러스
-  - 일시: 12. 17(금) ~ 12. 19(일) 14:00
-- __[AWS re:Invent](https://reinvent.awsevents.com/)__
-  - 분류: `클라우드`
-  - 주최: AWS
-  - 일시: 11. 29(월) ~ 12. 03(금)
-- __[SPECTRUM CON 2021 : REFRAMING](https://events.eoeoeo.net/events/18)__
-  - 분류: `컨퍼런스`
-  - 주최: EO
-  - 일시: 12. 04(토) ~ 12. 05(일)
-- __[2021 자율주행 인공지능 알고리즘 개발 챌린지](https://adai2021.com/)__
-  - 분류: `챌린지`, `AI`
-  - 주최: 국토교통부
-  - 일시: 10. 22(금) 12:00 ~ 12. 06(월) 13:00
-- __[병변 검출 AI 경진대회](https://adai2021.com/)__
-  - 분류: `챌린지`, `AI`
-  - 주최: 국토교통부
-  - 일시: 10. 22(금) 12:00 ~ 12. 06(월) 13:00
-- __[LG CNS DevOn MSA Suite](https://www.devonmsa.com/)__
-  - 분류: `웨비나`, `MSA`
-  - 주최: LG CNS
-  - 일시: 12. 08(수) 14:00 ~ 15:20
-- __[2021 한국인 전신 형상 & 치수 측정 데이터 활용 AI 해커톤](http://kbdhackathon.com/)__
-  - 분류: `해커톤`, `AI`
-  - 주최: 과학기술정보통신부
-  - 일시: 11. 18(목) 12:00 ~ 12. 10(금) 12:00
-- __[NAVER Cloud SUMMIT](https://www.ncloud-online.com/navercloudsummit2021/)__
+  - 일시: 02. 24(목) 9:00 ~ 17:00
+- __[누구나 쉽게 이해할 수 있는 마이크로서비스 아키텍처](https://festa.io/events/2115)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 네이버 클라우드 플랫폼
-  - 일시: 12. 15(수) ~ 12. 16(목) 14:00 ~ 17:00
-- __[카페24 개발자 세미나 - 이커머스 기능(앱) 개발 전략](https://festa.io/events/1947)__
-  - 분류: `웨비나`
-  - 주최: 카페24
-  - 일시: 12. 16(목) 14:00 ~ 15:30
-- __[Tech Talks 2021](https://developer.apple.com/tech-talks/)__
-  - 분류: `온라인`, `라이브`
-  - 주최: Apple
-  - 일시: 10. 25(월) ~ 12. 17(금)
-- __[SEOULTECH - KSCE AI for Science 부트캠프](https://www.gpuhackathons.org/event/seoultech-ksce-ai-science-gpu-bootcamp)__
-  - 분류: `온라인`, `부트캠프`
-  - 주최: NVDIA
-  - 일시: 12. 20(월) ~ 12. 21(화)
+  - 일시: 02. 24(목) 11:00 ~ 12:00
+- __[GCP 입문을 위한 hands-on Labs day 2022 season1](https://festa.io/events/2112)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 메가존클라우드
+  - 일시: 02. 24(목) 13:00 ~ 17:00
+- __[Tech & Career Forum](https://www.samsung-dsrecruit.com/tech_and_career/)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 삼성
+  - 일시: 02. 24(목) 11:00 ~ 13:10
+- __[NVIDIA AI 개발자 밋업 - 음성 AI](https://festa.io/events/2113)__
+  - 분류: `웨비나`, `AI`
+  - 주최: NVIDIA
+  - 일시: 02. 24(목) 14:00 ~ 16:00
+- __[공공조달빅데이터 경진대회](https://pps.go.kr/kor/bbs/view.do?key=00641&bbsSn=2111010006)__
+  - 분류: `경진대회`, `빅데이터`
+  - 주최: 조달청
+  - 일시: 11. 01(월) ~ 02. 25(금)
+- __[NFTBank 미니 테크 세미나 1회](https://docs.google.com/forms/d/e/1FAIpQLScNNYmcp4uuczn5XskK8bHPnwrW7mKadKqVhOs4eGmWXfUJNw/viewform)__
+  - 분류: `NFT`
+  - 주최: NFTBank
+  - 모집: 02. 25(금) 23:00
+- __[UPF 2022SS 참가팀 모집](https://www.unit.center/upf)__
+  - 분류: `대외활동`
+  - 주최: UNIT
+  - 모집: 02. 13(일) ~ 02. 26(토)
+- __[IT 커뮤니티 연합 해커톤, UNITHON 8TH](https://unit.center/unithon)__
+  - 분류: `해커톤`, `무료`
+  - 주최: UNIT
+  - 접수: 02. 17(목) ~ 02. 27(일)
+- __[NVIDIA DLI 앰배서더 챌린지 2022](https://festa.io/events/2071)__
+  - 분류: `교육`
+  - 주최: NVIDIA
+  - 모집: 01. 17(월) ~ 02. 28(월)
+- __[한국어 문장 관계 분류 경진대회](https://dacon.io/competitions/official/235875/overview/description)__
+  - 분류: `경진대회`
+  - 주최: DACON
+  - 일시: 01. 28(금) ~ 02. 28(월)
+- __[nexon developers conference 22 발표자 모집](https://ndc.nexon.com/main)__
+  - 분류: `컨퍼런스`
+  - 주최: 넥슨
+  - 일시: 02. 03(목) ~ 02. 28(월)
+- __[당신의 포트폴리오를 리뷰합니다.](https://dangpori.oopy.io/)__
+  - 분류: `모임`, `취업`
+  - 주최: 당포리
+  - 모집: 02. 11(금) ~ 02. 28(월)
 
+<br />
+
+## 22년 03월
+- __[엘리스 SW 엔지니어 트랙 2기](https://festa.io/events/2127)__
+  - 분류: `교육`, `무료`
+  - 주최: 엘리스
+  - 접수: 02. 14(월) ~ 03. 13(일)
+
+- __[2022 adiOS Blossom](https://festa.io/events/2121)__
+  - 분류: `iOS`, `주니어`
+  - 주최: adiOS Korea
+  - 일시: 03. 19(토)
+- __[GIS (지리정보시스템) 활용한 Map Contest](https://www.esrikr.com/)__
+  - 분류: `경진대회`, `GIS`
+  - 주최: (주)한국에스리
+  - 접수: 02. 07(월) ~ 03. 25(금)
+- __[AWSKRUG 보안 소모임 온라인 밋업](https://www.meetup.com/awskrug/events/284014515/)__
+  - 분류: `웨비나`, `보안`
+  - 주최: AWSKRUG
+  - 일시: 03. 30(수) 19:00 ~ 21:00
+- __[AWSKRUG #architecture 소모임](https://www.meetup.com/awskrug/events/284016377/)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: AWSKRUG
+  - 일시: 03. 30(수) 19:30 ~ 21:30
+- __[AMAXG BIZA DApp 개발자 경진대회](https://amaxgdapp.com)__
+  - 분류: `경진대회`
+  - 주최: (사)한국블록체인기업진흥협회
+  - 모집: 01. 01(토) ~ 03. 31(목)
+- __[Golang 1.18 Release Party](https://festa.io/events/2124)__
+  - 분류: `웨비나`, `Go`
+  - 주최: Golang Korea
+  - 일시: 03. 31(목) 20:00 ~ 22:00
+
+
+<br />
+
+## 22년 06월
+- __[nexon developers conference 22](https://ndc.nexon.com/main)__
+  - 분류: `컨퍼런스`
+  - 주최: 넥슨
+  - 일시: 06. 07(화) ~ 06. 10(금)
 
 <br />
 
@@ -303,7 +248,7 @@
 | 한이음 |대학생 멘티와 지도교수, 기업전문가 ICT멘토가 팀을 이루어 실무 프로젝트를 수행 |[www.hanium.or.kr](https://www.hanium.or.kr/portal/hanium/businessOverview.do) |  
 | 넥스터즈 | 개발자와 디자이너 연합 동아리 | [teamnexters.com](http://teamnexters.com/) |
 | YAPP | 대학생 연합 기업형 IT 동아리 | [yapp.co.kr](http://yapp.co.kr/) |
-| Mash-Up | 성장의 즐거움을 아는 친구들 | [mash-up.it](https://mash-up.it/), [facebook](https://www.facebook.com/mashupgroup/) |
+| Mash-Up | 성장의 즐거움을 아는 친구들 | [mash-up.kr](https://www.mash-up.kr/), [facebook](https://www.facebook.com/mashupgroup/) |
 | AUSG | AWS 대학생 그룹 | [Notion](https://www.notion.so/ausg/AUSG-AWS-f587ae7e146f4c37a313170e1ba603e7/) |
 | D&D | 서울거주 현직자들의 기술공유와 프로젝트를 진행하는 비영리단체 | [dnd.ac](https://dnd.ac/) |
 | SOPT | 대학생 연합 IT벤처 창업 동아리 | [sopt.org](http://sopt.org/wp/), [facebook](https://www.facebook.com/clubsopt) |
@@ -315,7 +260,8 @@
 | Central MakeUs Challenge(CMC) | 수익형 앱 런칭 동아리 | [공식 홈페이지](https://makeus.in/) [instagram](https://www.instagram.com/makeus_challenge/) |
 | University MakeUs Challenge(UMC) | 대학교 연합 앱런칭 동아리 | [1기 모집 노션](https://makeus-challenge.notion.site/University-MakeUs-Challenge-UMC-3a1b2a30fdd94f428cdbd5f91bdf0a5c) |
 | UPF | 프로젝트 완성, 고도화를 위한 팀 부스팅 프로그램 | [Notion](https://unit.center/upf), [facebook](https://www.facebook.com/unit.center) |
-
+| Central MakeUs Challenge | - | [공식 홈페이지](https://makeus.in/) |
+| 힙한 주니어들의 비밀 | - | [공식 홈페이지](https://litt.ly/hipjubie)
 
 <br />
 
@@ -327,10 +273,11 @@
 
 | 이름 | 링크 |
 |------------|-----------|
-| 양재동 코드랩 | [www.codelabs.kr](https://www.codelabs.kr/), [Youtube](https://www.youtube.com/channel/UC7SGsu80wfuTyQWo-PKatvg) |
-| 모두의 연구소 | [modulabs.co.kr](https://modulabs.co.kr/) |
-| CCCR 아카데미 | [cccr-edu.or.kr](https://www.cccr-edu.or.kr/main/index.jsp) |
-| 인공지능혁신학교 AIFFEL  | [AIFFEL](https://aiffel.io/) |
+| 양재동 코드랩 | [Homepage](https://www.codelabs.kr/), [Youtube](https://www.youtube.com/channel/UC7SGsu80wfuTyQWo-PKatvg) |
+| 모두의 연구소 | [Homepage](https://modulabs.co.kr/) |
+| CCCR 아카데미 | [Homepage](https://www.cccr-edu.or.kr/main/index.jsp) |
+| 인공지능혁신학교 AIFFEL  | [Homepage](https://aiffel.io/) |
+| 엘리스 | [Homepage](https://elice.io/home) |
 
 <br />
 
@@ -359,7 +306,24 @@
 | GDG Korea WebTech | [facebook](https://www.facebook.com/groups/webTechKR/) |
 | KSUG - 한국 스프링 사용자 모임 | [facebook](https://www.ksug.org/) |
 | devocean | [devocean.sk.com](https://devocean.sk.com/)
-| 닷넷데브 | [forum.dotnetdev.kr](https://forum.dotnetdev.kr/) |
+| OpenStack Korea 커뮤니티 | [facebook](https://www.facebook.com/groups/openstack.kr) |
+| Ceph 한국 커뮤니티 | [facebook](https://www.facebook.com/groups/620899444961207) |
+| Open Compute Project 한국 커뮤니티 | [facebook](https://www.facebook.com/groups/ocpkorea/) |
+| 표준프레임워크 오픈커뮤니티 | [open.egovframe.org](https://open.egovframe.org/) |
+| 게임 서버 개발자 모임 | [facebook](https://www.facebook.com/groups/207844736374114/) |
+| Kubernetes Korea | [facebook](https://www.facebook.com/groups/k8skr/) |
+| KubernPostgreSQL Korea | [facebook](https://www.facebook.com/groups/postgres.kr), [github](https://github.com/PostgreSQL-Korea) |
+| 한국 리눅스 사용자 그룹 | [facebook](https://www.facebook.com/groups/korelnxuser/), [homepage](http://www.lug.or.kr/home/) |
+| Korea Elasticsearch User Group | [facebook](https://www.facebook.com/groups/elasticsearch.kr/), [github](https://github.com/eskrug) |
+| Kotlin Korea | [facebook](https://www.facebook.com/groups/kotlinkr/), [homepage](http://kotlin.kr/) |
+| 구글 Flutter 한국 사용자 그룹 | [facebook](https://www.facebook.com/groups/flutterkorea/) |
+| React Korea | [facebook](https://www.facebook.com/groups/react.ko/) |
+| Kaggle Korea | [facebook](https://www.facebook.com/groups/KaggleKoreaOpenGroup/) |
+| 파이토치 한국 사용자 모임 | [homepage](https://pytorch.kr/), [facebook](https://www.facebook.com/groups/PyTorchKR/) |
+| Girls In Tech Korea | [homepage](https://korea.girlsintech.org/) |
+| OKKY (Java,Spring) | [homepage](https://okky.kr/) |
+| 남궁성의 코드초보 스터디 (Java,C) | [homepage](https://cafe.naver.com/javachobostudy) |
+| 우분투 한국 커뮤니티 | [homepage](https://ubuntu-kr.org), [facebook](https://www.facebook.com/groups/ubuntu.ko) |
 
 <br />
 
@@ -437,6 +401,10 @@
     <td align="center"><a href="https://github.com/zettalyst"><img src="https://avatars.githubusercontent.com/u/71296846?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Zetta (hogyun.yu)</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=zettalyst" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/chengxxi"><img src="https://avatars.githubusercontent.com/u/71359467?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seunghee Han</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=chengxxi" title="Code">💻</a></td>
     <td align="center"><a href="http://ohsuz.dev"><img src="https://avatars.githubusercontent.com/u/59340911?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Suzie Oh</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=ohsuz" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/ydh0213"><img src="https://avatars.githubusercontent.com/u/8025481?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Daehyun Yoon</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=ydh0213" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/skmn3"><img src="https://avatars.githubusercontent.com/u/81291090?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sangjin</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=skmn3" title="Code">💻</a></td>
+    <td align="center"><a href="https://bangu4.tistory.com/"><img src="https://avatars.githubusercontent.com/u/26866859?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Bang Jihoon</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=bangbangu4" title="Code">💻</a></td>
+    <td align="center"><a href="http://youngbin.xyz"><img src="https://avatars.githubusercontent.com/u/1916739?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Youngbin Han</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=sukso96100" title="Code">💻</a></td>
   </tr>
 </table>
 
